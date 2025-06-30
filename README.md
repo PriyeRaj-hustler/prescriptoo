@@ -3,6 +3,9 @@
 **Prescripto** is a full-featured appointment booking platform built for hospitals, clinics, and independent doctors. It provides a three-level authentication system to manage users (patients), doctors, and administrators.
 
 ---
+## LIVE LINKS
+- https://doctor-app-cpve-git-main-priye-rajs-projects.vercel.app/
+- https://doctor-app-16td-git-main-priye-rajs-projects.vercel.app/
 
 ## 🚀 Features
 
