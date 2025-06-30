@@ -138,8 +138,8 @@ Pull requests are welcome. For major changes, please open an issue to discuss wh
 This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
-Priye Raj
-3rd Year, Electrical Engineering
-NIT Silchar
-📧 priyer_ug_22@ee.nits.ac.in
-📞 7677640870
+- Priye Raj
+- 3rd Year, Electrical Engineering
+- NIT Silchar
+- 📧 priyer_ug_22@ee.nits.ac.in
+- 📞 7677640870
