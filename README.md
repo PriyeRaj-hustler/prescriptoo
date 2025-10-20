@@ -116,14 +116,6 @@ npm start
 cd ../admin
 npm start
 ```
-## 📸 Screenshots
-Add your app screenshots here:
-
-Patient booking UI
-
-Doctor dashboard
-
-Admin panel
 
 ## 📌 Future Enhancements
 Email & SMS notifications
